@@ -4,4 +4,4 @@
 
 ### 目录
 
-[一个简易的即时聊天程序](http://www.baidu.com)
+[一个简易的即时聊天程序](https://github.com/woai30231/socket.io-note/tree/master/chat-application)
